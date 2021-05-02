@@ -27,7 +27,7 @@ void main(int argc, char*argv[])
   //Validacion(argc, argv, &acomins, &acosegs, &flag);
   if(flag==1)
     {
-      printf("cometiste un error al ingresar los datos, por favor vuelve a intentarlo");
+      printf("Cometiste un error al ingresar los datos, por favor vuelve a intentarlo\n");
     }
   else
     {
